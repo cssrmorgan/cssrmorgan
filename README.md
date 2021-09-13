@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cssrmorgan
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning IBM's Data Analysis
-- 💞️ I’m looking to collaborate on my Profile
+- 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me - not yet
 
 <!---
