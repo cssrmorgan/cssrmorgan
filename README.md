@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning IBM's Data Analysis
 - 💞️ I’m looking to collaborate on Data Analysis Projects
-- 📫 How to reach me - not yet
+- 📫 i'm learning POWER BI for data analysis
 
 <!---
 cssrmorgan/cssrmorgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
