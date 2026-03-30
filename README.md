@@ -2,7 +2,7 @@
 - 👀 I’m learning Data Analysis
 - 📫 i'm learning POWER BI for Data Analysis
 - 🌱 I’m currently learning IBM's Data Analysis
-- 💞️ I’m looking to collaborate on Data Analysis Projects
+- 💞️ I’m looking to collaborate on Data Analysis Projects so I can learn
 
 
 <!---
